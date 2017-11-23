@@ -1,0 +1,10 @@
+Package: reprex
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Author: Aaron Wells
+Maintainer: Aaron Wells <aaronw@catalyst.net.nz>
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true,

@@ -1,0 +1,5 @@
+* installing *source* package ‘reprex’ ...
+** data
+Error in errmsg("invalid value of ", field, " field in DESCRIPTION") : 
+  could not find function "errmsg"
+* removing ‘/home/aaronw/code/reprex/..Rcheck/reprex’
